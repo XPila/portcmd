@@ -3,3 +3,4 @@ Release
 *.user
 *.ncb
 .vs
+*.suo

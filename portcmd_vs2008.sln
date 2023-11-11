@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "portcmd", "portcmd.vcproj", "{88C83ED4-9ED4-4389-A309-01CD634B5267}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "portcmd", "portcmd_vs2008.vcproj", "{88C83ED4-9ED4-4389-A309-01CD634B5267}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
