@@ -255,7 +255,7 @@ int port_open(char* port)
 		dcb.ByteSize = 8;
 		dcb.StopBits = ONESTOPBIT;
 		dcb.Parity = NOPARITY;
-		dcb.fDtrControl = DTR_CONTROL_DISABLE;
+		dcb.fDtrControl = DTR_CONTROL_ENABLE;
 		dcb.fRtsControl = RTS_CONTROL_DISABLE;
 		if (!SetCommState(port_handle, &dcb))
 		{
